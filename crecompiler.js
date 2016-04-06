@@ -1,2 +1,3 @@
 var nome = process.argv[2];
-require('./app.js')(nome);
+var nomeExec = process.argv[3];
+require('./app.js')(nome, nomeExec);
