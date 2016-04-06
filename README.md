@@ -2,7 +2,7 @@
 
 ```
 cd file/folder
-node crecompiler <name_file> [<name_exec>]
+node crecompiler <path_file> [<path_exec>]
 ```
 
 
